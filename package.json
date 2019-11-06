@@ -1,0 +1,25 @@
+{
+  "name": "flex-grid",
+  "version": "1.0.0",
+  "description": "Build flexible page on mobile or pc platform",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flex",
+    "grid",
+    "flexible",
+    "adapt",
+    "mobile",
+    "css",
+    "rem",
+    "vw"
+  ],
+  "author": "GavinBirkhoff",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GavinBirkhoff/flex-grid"
+  },
+  "license": "MIT"
+}
