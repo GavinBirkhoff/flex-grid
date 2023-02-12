@@ -1,9 +1,12 @@
 # flex-grid
+
+Deprecated
+
 Build flexible page on mobile or pc platform
 
 ## Usage
 
-#### Install
+### Install
 
 `npm i -S @gavinbirkhoff/flex-grid`
 
@@ -19,7 +22,7 @@ flexViewport这个函数调用，启动移动和PC设备页面自适应，不穿
 如果传参数pcWidth表示PC的独立像素宽度，到这个宽度后不在继续自适应，保持临界点状态。unit表示分割的design grid。
 为了动态决定是否适配，所以函数设置了手动调用。
 
-#### Import
+### Import
 
 Manually remove first 'export' in ./node_modules/@gavinbirkhoff/flex-grid/src/index.js
 ```html
